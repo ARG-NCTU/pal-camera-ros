@@ -7,7 +7,7 @@ This unoffical repo provide a docker container to run [DreamVu PAL_USB camera](h
 ### Clone the repo
 We use submodule with ssh-key in this repo, so please clone this repo with the command list below.
 ```
-$ git clone --recursive git@github.com:Louis5228/pal-camera-ros.git
+$ git clone --recursive git@github.com:ARG-NCTU/pal-camera-ros.git
 ```
 
 ### Run docker container
